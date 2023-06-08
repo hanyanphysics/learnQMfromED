@@ -1,7 +1,7 @@
 # Understanding Quantum Mechanics, Qubit by Qubit.
 
-This project is a combination of notes and python codes to teach undergraduate quantum mechanics from the perspective of qubit system. 
+This project combines notes and Python codes to teach undergraduate-level quantum mechanics, focusing on the qubit system perspective.
 
-Instead of solving Shrodinger equations for continuous wave functions, we start from the Hilbert space of a few qubits, and revisit the main concepts of quantum mechanics. We will introduce Exact Diagonalization to help us compute quantities beyond the analytical regime.
+Rather than solving Schrödinger equations for continuous wave functions, we begin with the Hilbert space of a few qubits and revisit key concepts of quantum mechanics. To calculate quantities beyond the analytical regime, we introduce the Exact Diagonalization method.
 
-This complimentary perspective is helpful for students interested in quantum many-body systems and quantum information.
+This complimentary approach helps students to understand quantum mechanics better, and is beneficial for those who have an interest in quantum many-body systems and quantum information.
